@@ -1,0 +1,10 @@
+sample,fastq_1
+SRR28446388_MM-17-138_50k,https://raw.githubusercontent.com/ktrachtova/test_data/fe443ae81acd4dc8dc7a350c0f6264de420e7169/perseqpipe/full_test/SRR28446388_MM-17-138_50k.fastq.gz
+SRR28446389_MM-17-129_50k,https://raw.githubusercontent.com/ktrachtova/test_data/fe443ae81acd4dc8dc7a350c0f6264de420e7169/perseqpipe/full_test/SRR28446389_MM-17-129_50k.fastq.gz
+SRR28446390_MM-17-85_50k,https://raw.githubusercontent.com/ktrachtova/test_data/fe443ae81acd4dc8dc7a350c0f6264de420e7169/perseqpipe/full_test/SRR28446390_MM-17-85_50k.fastq.gz
+SRR28446396_MM-17-37_50k,https://raw.githubusercontent.com/ktrachtova/test_data/fe443ae81acd4dc8dc7a350c0f6264de420e7169/perseqpipe/full_test/SRR28446396_MM-17-37_50k.fastq.gz
+SRR28446397_MM-17-19_50k,https://raw.githubusercontent.com/ktrachtova/test_data/fe443ae81acd4dc8dc7a350c0f6264de420e7169/perseqpipe/full_test/SRR28446397_MM-17-19_50k.fastq.gz
+SRR28446398_MM-16-140_50k,https://raw.githubusercontent.com/ktrachtova/test_data/fe443ae81acd4dc8dc7a350c0f6264de420e7169/perseqpipe/full_test/SRR28446398_MM-16-140_50k.fastq.gz
+SRR28446383_MM-8-196_50k,https://raw.githubusercontent.com/ktrachtova/test_data/fe443ae81acd4dc8dc7a350c0f6264de420e7169/perseqpipe/full_test/SRR28446383_MM-8-196_50k.fastq.gz
+SRR28446384_MM-12-228_50k,https://raw.githubusercontent.com/ktrachtova/test_data/fe443ae81acd4dc8dc7a350c0f6264de420e7169/perseqpipe/full_test/SRR28446384_MM-12-228_50k.fastq.gz
+SRR28446385_MM-13-77_50k,https://raw.githubusercontent.com/ktrachtova/test_data/fe443ae81acd4dc8dc7a350c0f6264de420e7169/perseqpipe/full_test/SRR28446385_MM-13-77_50k.fastq.gz

@@ -1,0 +1,3 @@
+sample,fastq_1
+SRR11682236_Sepsis_5_50k,https://raw.githubusercontent.com/ktrachtova/test_data/f4ee7740cf70acf15e086acc7135b78581c8f49c/perseqpipe/norgen/SRR11682236_Sepsis_5_50k.fastq.gz
+SRR11682237_Sepsis_6_50k,https://raw.githubusercontent.com/ktrachtova/test_data/f4ee7740cf70acf15e086acc7135b78581c8f49c/perseqpipe/norgen/SRR11682237_Sepsis_6_50k.fastq.gz
