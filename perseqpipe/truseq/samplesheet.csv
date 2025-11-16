@@ -1,0 +1,3 @@
+sample,fastq_1
+SRR10217428_H30541_TruSeq_unblocked_50k,https://raw.githubusercontent.com/ktrachtova/test_data/f4ee7740cf70acf15e086acc7135b78581c8f49c/perseqpipe/truseq/SRR10217428_H30541_TruSeq_unblocked_50k.fastq.gz
+SRR10217429_H30542_TruSeq_unblocked_50k,https://raw.githubusercontent.com/ktrachtova/test_data/f4ee7740cf70acf15e086acc7135b78581c8f49c/perseqpipe/truseq/SRR10217429_H30542_TruSeq_unblocked_50k.fastq.gz

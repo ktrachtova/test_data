@@ -1,0 +1,4 @@
+sample,fastq_1
+SRR11631009_Lexogen_plasma_1_50k,https://raw.githubusercontent.com/ktrachtova/test_data/f4ee7740cf70acf15e086acc7135b78581c8f49c/perseqpipe/lexogen/SRR11631009_Lexogen_plasma_1_50k.fastq.gz
+SRR11631010_Lexogen_plasma_2_50k,https://raw.githubusercontent.com/ktrachtova/test_data/f4ee7740cf70acf15e086acc7135b78581c8f49c/perseqpipe/lexogen/SRR11631010_Lexogen_plasma_2_50k.fastq.gz
+
